@@ -7,3 +7,4 @@ TAPAAL consists of the following sub-components:
   - [verifytapn](https://github.com/tapaal/verifytapn)
   - [verifydtapn](https://github.com/tapaal/verifydtapn)
   - [verifypn](https://github.com/tapaal/verifypn)
+  - [unfoldTACPN](https://github.com/TAPAAL/unfoldTACPN)
