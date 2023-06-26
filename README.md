@@ -3,7 +3,7 @@
 This repo contains the files needed to create an release of TAPAAL. 
 
 TAPAAL consists of the following sub-components:
-  - [TAPAAL GUI](https://launchpad.net/tapaal)
+  - [TAPAAL GUI](https://github.com/tapaal/tapaal-gui)
   - [verifytapn](https://github.com/tapaal/verifytapn)
   - [verifydtapn](https://github.com/tapaal/verifydtapn)
   - [verifypn](https://github.com/tapaal/verifypn)
